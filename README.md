@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[Русский](https://github.com/devoqub/devoqub/edit/main/README%20RU.md) | English
 <!--
 **devoqub/devoqub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
