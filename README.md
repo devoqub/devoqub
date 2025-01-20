@@ -86,7 +86,7 @@ Am currently working on [polybar-ticker](https://github.com/devoqub/polybar-tick
 
 ### Statistic
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=devoqub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2"  alt="статистика"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=devoqub&locale=en&layout=compact&card_width=320&langs_count=5&theme=dark"  alt="статистика"/>
     <img width="12" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devoqub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2"  alt="языки"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devoqub&locale=en&layout=compact&card_width=320&langs_count=5&theme=dark" alt="языки"/>
 <div/>
