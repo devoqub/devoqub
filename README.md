@@ -24,7 +24,7 @@ Am currently working on [polybar-ticker](https://github.com/devoqub/polybar-tick
 
 
 
-### Stack:
+### Main Stack:
 <div align="left">
   <!-- Python -->
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width=48/>
