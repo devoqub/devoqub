@@ -81,7 +81,7 @@ Am currently working on [polybar-ticker](https://github.com/devoqub/polybar-tick
 
     
 <p>Text: Linux, Python, JavaScript, HTML, CSS, SQL, Bash, Django, Docker, Docker Compose, SQLite, PostgreSQL, SQLAlchemy, Redis, HTMX, Postman, Burp Suite, Figma, Git, RESTful API</p>
-<img height=96 width=1024 src="https://github.com/user-attachments/assets/95d127a0-36d1-47df-8066-ff602bcf6b5f"/>
+<!--<img height=96 width=1024 src="https://github.com/user-attachments/assets/95d127a0-36d1-47df-8066-ff602bcf6b5f"/> -->
 
 
 ### Statistic
